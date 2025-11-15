@@ -1,0 +1,5 @@
+target "nhấn vào link có 4 trường hợp  là _blank _top  _self __parent
+controls nút điều kiển trong file vd or audio
+loop lập đi lập lại
+autoplay tự động phát
+muted tắt tiếng
